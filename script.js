@@ -55,8 +55,8 @@ var game = (function(document) {
         dinoEndX: 70,
 
         // position of dino eye in running state
-        dinoEyeX: 51,
-        dinoEyeY: 98,
+        dinoEyeX: 50,
+        dinoEyeY: 99,
 
         // position of dino eye in duck state
         dinoDuckEyeX: 68,
